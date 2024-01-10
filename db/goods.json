@@ -1,0 +1,47 @@
+{"goods": {
+    "videoCards": 
+        [{
+            "id": 1,
+            "name": "GTX 1660",
+            "price": 100,
+           "description": "GTX 1660 is the best graphics card",
+            "img": "images/database/gtx1660.jpg"
+        },
+        {
+            "id": 2,
+            "name": "RTX 2080 SUPER",
+            "price": 100,
+           "description": "RTX 2080 is the best graphics card",
+            "img": "images/database/gtx1660.jpg"
+        },
+        {
+            "id": 3,
+            "name": "GTX 1660",
+            "price": 100,
+           "description": "GTX 1660 is the best graphics card",
+            "img": "images/database/gtx1660.jpg"
+        },
+        {
+            "id": 4,
+            "name": "GTX 1660",
+            "price": 100,
+           "description": "GTX 1660 is the best graphics card",
+            "img": "images/database/gtx1660.jpg"
+        },
+        {
+            "id": 5,
+            "name": "GTX 1660",
+            "price": 100,
+           "description": "GTX 1660 is the best graphics card",
+            "img": "images/database/gtx1660.jpg"
+        }
+        
+    ],
+    "coolers": [
+        {
+        }
+    ]
+        
+    
+}
+    }
